@@ -1,0 +1,64 @@
+
+
+.container{
+   display: flex;
+   justify-content: space-around;
+   background-color: #fff;
+   box-shadow: 5px 5px 10px 0 #aaa;
+   height: 75px;
+   z-index: 999;
+   opacity: 0.85;
+}
+
+.links{
+   display: flex;
+   padding: 12px;
+   margin: 0;
+}
+
+.heading{
+   padding: 0 10px;
+   position: relative;
+   top: -10px;
+   font-size: 30px;
+}
+
+.fonts{
+   display: flex;
+   justify-content: space-between;
+   margin: 10px;
+   padding:  10px;
+   font-size: 25px;
+}
+
+a{
+   text-decoration: none;
+   margin: 10px;
+   padding: 11px 0;
+   font-size: 18px;
+   font-weight: bold;
+   color: #222;
+}
+
+select{
+   border: none;
+
+}
+
+.font1{
+   padding: 0 10px;
+}
+
+.cart{
+   display: inline-block;
+   font-size: 35px;
+   position: relative;
+   top: 25px;
+   left: -30px;
+   color: #eb3312;
+}
+
+.link{
+   position: relative;
+   top: 8px;
+}
