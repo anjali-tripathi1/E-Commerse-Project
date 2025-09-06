@@ -11,8 +11,9 @@
 
 <div class="container2">
 
-  <div>
-     <i class="fa-solid fa-cart-shopping cart1"></i>
+
+  <div class="cart">
+      <i class="fa-solid fa-cart-shopping cart1"></i>
   </div>
 
      <h3 class="h3">E-Commerse</h3>
@@ -25,7 +26,10 @@
   <form action="">
    <input type="text" placeholder="username" class="user" #username required>
    <input type="password" name="" id="" placeholder="password" class="password" #password required>
-   <a href="" class="forget">Forget password?</a>
+   <div *ngIf="show">
+       <a [routerLink]="'forget'" class="forget">Forget password?</a>
+   </div>
+
   <button class="login" (click)="onLoginClicked()">Login</button>
 
   <a href="" class="or">Or login with</a>
@@ -50,3 +54,5 @@
 </div>
 
 </div>
+
+

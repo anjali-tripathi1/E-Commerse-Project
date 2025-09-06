@@ -1,16 +1,22 @@
 import { Component, ElementRef, inject, ViewChild } from '@angular/core';
 import { AuthService } from '../../../service/auth.service';
-import { Router } from '@angular/router';
+import { Router, RouterLink, RouterOutlet } from '@angular/router';
+import { CommonModule } from '@angular/common';
+
+
+
 
 @Component({
   selector: 'app-login',
-  imports: [],
+  imports: [RouterLink, CommonModule],
   templateUrl: './login.html',
   styleUrl: './login.css'
 })
 export class Login {
+  show:boolean = true
     authService:AuthService = inject(AuthService)
     router:Router = inject(Router)
+
     @ViewChild('username') username!:ElementRef
     @ViewChild('password') password!:ElementRef
     onLoginClicked(){
@@ -22,7 +28,7 @@ export class Login {
           alert('The Login credentials is not correct.')
        } else{
           alert('Welcome ' + user.name + ' you are logged.')
-          this.router.navigate(['/header'])
+
        }
     }
 }
