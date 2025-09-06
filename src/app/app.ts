@@ -8,7 +8,7 @@ import { Forget } from "./pages/admin/forget/forget";
 
 @Component({
   selector: 'app-root',
-  imports: [Login, RouterOutlet, RouterLink],
+  imports: [Login, RouterOutlet, ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

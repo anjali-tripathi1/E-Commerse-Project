@@ -2,18 +2,22 @@ import { Component, ElementRef, inject, ViewChild } from '@angular/core';
 import { AuthService } from '../../../service/auth.service';
 import { Router, RouterLink, RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
+import { User } from '../../../models/user';
+import { Forget } from "../forget/forget";
 
 
 
 
 @Component({
   selector: 'app-login',
-  imports: [RouterLink, CommonModule],
+  imports: [CommonModule, Forget, RouterLink],
   templateUrl: './login.html',
   styleUrl: './login.css'
 })
 export class Login {
   show:boolean = true
+  forget!:User
+  showComponent:boolean = false
     authService:AuthService = inject(AuthService)
     router:Router = inject(Router)
 
@@ -30,5 +34,9 @@ export class Login {
           alert('Welcome ' + user.name + ' you are logged.')
 
        }
+    }
+
+    doForget(){
+        this.showComponent = true
     }
 }

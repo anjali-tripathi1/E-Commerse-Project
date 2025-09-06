@@ -27,7 +27,7 @@
    <input type="text" placeholder="username" class="user" #username required>
    <input type="password" name="" id="" placeholder="password" class="password" #password required>
    <div *ngIf="show">
-       <a [routerLink]="'forget'" class="forget">Forget password?</a>
+       <a  routerLink="/forget"  class="forget" (click)="doForget()">Forget password?</a>
    </div>
 
   <button class="login" (click)="onLoginClicked()">Login</button>
@@ -55,4 +55,4 @@
 
 </div>
 
-
+<app-forget *ngIf="showComponent"></app-forget>
