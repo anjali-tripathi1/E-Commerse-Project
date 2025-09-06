@@ -8,6 +8,7 @@ import { Forget } from "../forget/forget";
 
 
 
+
 @Component({
   selector: 'app-login',
   imports: [CommonModule, Forget, RouterLink],
@@ -34,6 +35,11 @@ export class Login {
           alert('Welcome ' + user.name + ' you are logged.')
 
        }
+    }
+
+    toggleForget(){
+        this.showComponent = true
+        // this.router.navigate(['/login/forget'])
     }
 
 
