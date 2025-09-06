@@ -36,7 +36,5 @@ export class Login {
        }
     }
 
-    doForget(){
-        this.showComponent = true
-    }
+
 }
