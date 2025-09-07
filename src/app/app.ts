@@ -9,7 +9,7 @@ import { Forget } from "./pages/admin/forget/forget";
 
 @Component({
   selector: 'app-root',
-  imports: [ RouterOutlet, RouterLink],
+  imports: [RouterOutlet, RouterLink, Login, Header],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

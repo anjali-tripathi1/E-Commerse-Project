@@ -5,6 +5,7 @@ import { Forget } from './pages/admin/forget/forget';
 import { SignUp } from './pages/admin/sign-up/sign-up';
 
 export const routes: Routes = [
+     {path:'header',  component:Header},
      {path:'login', component:Login},
      {path:'forget', component:Forget},
      {path:'sign-up', component:SignUp}

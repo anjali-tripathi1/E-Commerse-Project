@@ -1,14 +1,17 @@
 <div>
-   <div>
-      <form action="">
-          <input type="text" placeholder="Enter Name">
-          <input type="password" name="" id="" placeholder="Enter password">
-          <input type="date" name="" id="">
-          <input type="email" placeholder="Ente Email">
-          <input type="text" placeholder="username">
-          <button>Create username</button>
-          <input type="checkbox" name="" id="">
-          <button>Sign Up</button>
+   <div class="container">
+    <h2 class="h2">Sign Up</h2>
+      <form (ngSubmit)="onFormSubmit()" #form="ngForm">
+          <input type="text" placeholder="Enter FirstName" class="name" [(ngModel)]="firstName" #fname="ngModel" name="name" ngModel>
+           <input type="text" placeholder="Enter LastName" class="name" [(ngModel)]="lastName" name="name" ngModel>
+          <input type="password" name="" id="" placeholder="Enter Password" class="name" [(ngModel)]="password" name="password" ngModel>
+          <input type="date"  class="name" [(ngModel)]="date" name="date" ngModel>
+          <input type="email" placeholder="Ente Email" class="name" name="email" ngModel>
+          <input type="text"  placeholder="username" class="name" name="username" ngModel>
+          <button type="button" class="user" (click)="genrateUser()" >Create username</button>
+          <input type="checkbox" name="" id="" class="checkbox" name="agreement" ngModel="isAgreed">
+          <p class="para">I agree to the Term of Conditions</p>
+          <button type="submit"  class="sign" (click)="clickSign()">Sign Up</button>
       </form>
    </div>
 </div>
