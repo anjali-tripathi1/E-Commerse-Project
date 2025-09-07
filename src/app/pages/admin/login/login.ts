@@ -31,15 +31,16 @@ export class Login {
 
        if(user === undefined){
           alert('The Login credentials is not correct.')
+
        } else{
           alert('Welcome ' + user.name + ' you are logged.')
-
+          this.router.navigate(['/header'])
        }
     }
 
     toggleForget(){
         this.showComponent = true
-        // this.router.navigate(['/login/forget'])
+
     }
 
 

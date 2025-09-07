@@ -4,12 +4,13 @@ import { Header } from "./header/header";
 import { Product } from "./product/product";
 import { Login } from "./pages/admin/login/login";
 import { Forget } from "./pages/admin/forget/forget";
+import { Home } from "./home/home";
 
 
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, RouterLink, Login, Header],
+  imports: [RouterOutlet, Home, Header],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

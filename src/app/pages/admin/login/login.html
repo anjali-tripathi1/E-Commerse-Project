@@ -29,7 +29,7 @@
 
    <a routerLink="/forget" class="forget" (click)="toggleForget()">Forget password?</a>
 
-  <a href="" class="login">Login</a>
+  <a href="" class="login" (click)="onLoginClicked()">Login</a>
 
   <a href="" class="or">Or login with</a>
 
@@ -54,7 +54,10 @@
 
 </div>
 
+
+
 <div *ngIf="showComponent">
    <app-forget ></app-forget>
 </div>
 
+<div></div>
