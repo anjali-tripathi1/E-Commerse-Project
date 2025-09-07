@@ -27,7 +27,7 @@
    display: flex;
    justify-content: space-between;
    margin: 10px;
-   padding:  10px;
+   padding:  5px 10px;
    font-size: 25px;
 }
 
@@ -42,6 +42,7 @@ a{
 
 select{
    border: none;
+   background: none;
 
 }
 
@@ -54,7 +55,7 @@ select{
    font-size: 35px;
    position: relative;
    top: 25px;
-   left: -30px;
+    left: -30px;
    color: #eb3312;
 }
 
@@ -62,3 +63,11 @@ select{
    position: relative;
    top: 8px;
 }
+
+.highlight{
+   font-size: 18px;
+   color: black;
+   font-weight: bold;
+   padding-top: 20px;
+}
+

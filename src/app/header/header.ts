@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
-import { Component } from '@angular/core';
-import { RouterLink } from '@angular/router';
+import { Component, inject } from '@angular/core';
+import { Router, RouterLink } from '@angular/router';
 import { Home } from "../home/home";
 
 
@@ -12,8 +12,18 @@ import { Home } from "../home/home";
 })
 export class Header {
     show:boolean = false
+    router:Router = inject(Router)
 
     clickShow(){
        this.show = true
+    }
+
+    navigate(event:Event){
+       const target = event.target as HTMLSelectElement
+       const route = target.value
+
+       if(route){
+          this.router.navigate([route])
+       }
     }
 }

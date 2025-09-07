@@ -11,10 +11,10 @@
 
 
 
-   <div class="links">
-       <a routerLink="home">Home</a>
-       <a href="">Pages</a>
-       <a routerLink="login">Contact us</a>
+   <div class="links" >
+      <a routerLink="/home">Home</a>
+
+
 
      <div class="fonts">
       <div class="font1">
@@ -30,12 +30,10 @@
 
       <div class="font3">
           <i class="fa-solid fa-user-tie"></i>
-         <select name="" id="">
-
-             <option value="">
-
-             </option>
-         </select>
+         <select (change)="navigate($event)">
+                 <option value="/login">Login</option>
+                 <option value="/sign-up">Sign Up</option>
+           </select>
       </div>
 
      </div>
