@@ -6,12 +6,13 @@ import { Login } from "./pages/admin/login/login";
 import { Forget } from "./pages/admin/forget/forget";
 import { Home } from "./home/home";
 import { ApiService } from './service/api.service';
+import { Footer } from "./footer/footer";
 
 
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Home, Header],
+  imports: [RouterOutlet, Header, Footer],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
