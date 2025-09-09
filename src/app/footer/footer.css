@@ -66,24 +66,31 @@ a{
 
 .inline{
   position: relative;
-  top: -55%;
-  left: 35%;
+  top: -58%;
+  left: 30%;
    display: flex;
    justify-content: space-around;
-   width: 350px;
+   width: 400px;
    padding: 10px 15px;
    margin-top: 10px;
 }
 
 .update{
    color: #444;
-   position: relative;
-   top: -80%;
+
 
 }
 
 .contact{
    position: relative;
-    top: -30%;
-   left: 30%;
+    top: -50%;
+   left: 50%;
+}
+
+input{
+    position: relative;
+    top: -60%;
+   left: 50%;
+   width: 300px;
+   height: 40px;
 }

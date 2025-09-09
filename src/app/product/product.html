@@ -1,4 +1,5 @@
- <div>
+
+<div>
    <h1 class="exclu">Exculusive Products</h1>
    <div class="container">
       <a href="">New Arrival</a>
@@ -9,15 +10,15 @@
 </div>
 
 
-<div class="product-heading">
+<div class="product-heading" *ngFor="let product of products">
    <div class="box"  >
    <div></div>
-   <div class="intro">New Dress<h3></h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
+   <div class="intro">{{product.productName}}<h3></h3></div>
+   <div class="price">{{product.productPrice}}</div>
+   <div class="discount">{{product.productDescription}}</div>
+   <div class="off">{{product.categoryId}}</div>
    <div class="img-box">
-      <img src="" alt="">
+      <img src="{{product.productImageUrl}}" alt="">
    </div>
    <div class="star">
       <i class="star fa fa-star"></i>
@@ -28,139 +29,6 @@
    <div class="star-1">
      <i class="fa-solid fa-cart-plus star-2"></i>
    </div>
-</div>
-
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Elegent Jeans</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="img-box">
-      <img src="" alt="">
-   </div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Stentials</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="img-box">
-      <img src="" alt="">
-   </div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Furniture</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="img-box">
-      <img src="" alt="">
-   </div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Laptop XMl</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Jacket</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>Casserole</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
-
-<div class="box">
-   <div></div>
-   <div class="intro"><h3>iphone Pro</h3></div>
-   <div class="price">$455</div>
-   <div class="discount">55.55</div>
-   <div class="off">35% off</div>
-   <div class="star">
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-      <i class="star fa fa-star"></i>
-       (25)
-   </div>
-   <div class="star-1">
-     <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
-
 </div>
 
 
