@@ -1,5 +1,11 @@
+<body>
 
-<div>
+
+  <div class="big-sale">
+     <img src="" alt="">
+  </div>
+
+         <div>
    <h1 class="exclu">Exculusive Products</h1>
    <div class="container">
       <a href="">New Arrival</a>
@@ -10,17 +16,22 @@
 </div>
 
 
-<div class="product-heading" *ngFor="let product of products">
-   <div class="box"  >
-   <div></div>
-   <div class="intro">{{product.productName}}<h3></h3></div>
-   <div class="price">{{product.productPrice}}</div>
-   <div class="discount">{{product.productDescription}}</div>
-   <div class="off">{{product.categoryId}}</div>
-   <div class="img-box">
-      <img src="{{product.productImageUrl}}" alt="">
+<div class="product-container"  *ngFor="let product of products">
+
+       <div class="box ">
+         <div class="img-box">
+                  <img src="{{product.productImageUrl}}" alt="">
+           </div>
+           <div class="">{{product.productName}}<h3></h3></div>
+          <div class="">{{product.productPrice}}</div>
+          <div class="">{{product.brand}} . {{product.deliveryTimeSpan}} . {{product.categoryName}}</div>
+         <div class="">{{product.items_left}}</div>
    </div>
-   <div class="star">
+  </div>
+
+
+
+   <!-- <div class="star">
       <i class="star fa fa-star"></i>
       <i class="star fa fa-star"></i>
       <i class="star fa fa-star"></i>
@@ -28,7 +39,9 @@
    </div>
    <div class="star-1">
      <i class="fa-solid fa-cart-plus star-2"></i>
-   </div>
-</div>
+   </div> -->
 
 
+
+
+</body>
