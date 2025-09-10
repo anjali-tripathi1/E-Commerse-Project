@@ -1,7 +1,5 @@
-<body>
 
-
-  <div class="big-sale">
+      <div class="big-sale">
      <img src="" alt="">
   </div>
 
@@ -16,8 +14,8 @@
 </div>
 
 
-<div class=""  *ngFor="let product of products">
-     <div class="product-container">
+<div class="product-container"  *ngFor="let product of products">
+
       <div class="box">
          <div class="img-box">
                   <img src="{{product.productImageUrl}}" alt="">
@@ -26,24 +24,29 @@
           <div >{{product.productPrice}}</div>
           <div >{{product.brand}} . {{product.deliveryTimeSpan}} . {{product.categoryName}}</div>
          <div >{{product.items_left}}</div>
-      </div>
-     </div>
 
-  </div>
-
-
-
-   <!-- <div class="star">
+          <div class="star">
       <i class="star fa fa-star"></i>
       <i class="star fa fa-star"></i>
       <i class="star fa fa-star"></i>
+      <i class="fas fa-star-half-alt"></i>
        (25)
    </div>
    <div class="star-1">
      <i class="fa-solid fa-cart-plus star-2"></i>
-   </div> -->
+   </div>
+      </div>
+     </div>
 
 
 
 
-</body>
+
+
+
+
+
+
+
+
+

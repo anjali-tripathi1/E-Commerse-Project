@@ -459,7 +459,7 @@ export class Product {
 
 
      {
-      "productId": 3549,
+      "productId": 26,
       "productSku": "vbh",
       "productName": "bvbvb",
       "productPrice": 17,
@@ -468,11 +468,15 @@ export class Product {
       "createdDate": "2025-05-03T23:31:43.143",
       "deliveryTimeSpan": "1-2days",
       "categoryId": 56,
+       brand: "HAVELS",
+      discountPrice:140,
+      is_in_inventory: true,
+      items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=600",
       "categoryName": "Foodgrains"
     },
     {
-      "productId": 3940,
+      "productId": 27,
       "productSku": "abcw",
       "productName": "tomato",
       "productPrice": 11,
@@ -489,7 +493,7 @@ export class Product {
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3878,
+      "productId": 28,
       "productSku": "SKU-1755092828679-2210",
       "productName": "Tomate Italiano",
       "productPrice": 35,
@@ -506,20 +510,24 @@ export class Product {
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3879,
+      "productId": 29,
       "productSku": "SKU-1755092988919-5594",
-      "productName": "[PStoryStrapShopp] Tomate Italiano",
+      "productName": "[PShopp] Tomate Italiano",
       "productPrice": 35,
       "productShortName": "Tomate",
       "productDescription": "O tomate é o fruto da planta Solanum lycopersicum, pertencente à família das solanáceas (a mesma da batata, pimentão e berinjela). Ele é amplamente consumido em todo o mundo e é conhecido pelo seu sabor ligeiramente ácido e doce, além de sua versatilidade culinária — utilizado em saladas, molhos, sucos, sopas e muito mais.  Cores comuns: vermelho, amarelo, laranja, verde  Formatos: redondo, alongado, cereja (tomate-cereja), entre outros  Composição: rico em água (~95%), vitaminas (A, C, K), potássio e o antioxidante licopeno (principalmente nos vermelhos)",
       "createdDate": "2025-08-13T19:19:48.64",
       "deliveryTimeSpan": "5",
       "categoryId": 55,
-      "productImageUrl": "https://www.infoescola.com/wp-content/uploads/2011/01/tomate_345187874.jpg",
+      brand: "HAVELS",
+      discountPrice:140,
+      is_in_inventory: true,
+      items_left: 3,
+      "productImageUrl": "/images/pexels-rauf-allahverdiyev-561368-1367242.jpg",
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3425,
+      "productId": 30,
       "productSku": "Capsicum",
       "productName": "Through Polo",
       "productPrice": 54,
@@ -528,11 +536,15 @@ export class Product {
       "createdDate": "2025-04-07T15:22:51.753",
       "deliveryTimeSpan": "1-2 Days",
       "categoryId": 55,
+      brand: "HAVELS",
+      discountPrice:140,
+      is_in_inventory: true,
+      items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/07822241-8137-49F5-A84E-35A96B0F88E4_400x.jpg?v=1734640468",
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3221,
+      "productId": 31,
       "productSku": "CAR",
       "productName": "Through Polo",
       "productPrice": 54,
@@ -541,11 +553,15 @@ export class Product {
       "createdDate": "2025-03-03T15:34:28.02",
       "deliveryTimeSpan": "2 days",
       "categoryId": 61,
+      brand: "HAVELS",
+      discountPrice:140,
+      is_in_inventory: true,
+      items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/E20DE5ED-4766-498E-ABC6-18792BA1B440_400x.jpg?v=1726061040",
       "categoryName": "Cuts & Sprouts"
     },
     {
-      "productId": 3426,
+      "productId": 32,
       "productSku": "Google",
       "productName": "Through Polo",
       "productPrice": 54,
@@ -562,9 +578,9 @@ export class Product {
       "categoryName": "Clothings"
     },
     {
-      "productId": 3830,
-      "productSku": "test123",
-      "productName": "Test Product",
+      "productId": 33,
+      "productSku": "Carrot",
+      "productName": "Carrot Slim",
       "productPrice": 10.99,
       "productShortName": "Test",
       "productDescription": "Description",
@@ -573,15 +589,15 @@ export class Product {
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
-      is_in_inventory: true,
-      items_left: 3,
+      is_in_inventory: false,
+      items_left: 10,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000070_17-fresho-carrot-orange.jpg?tr=w-154,q-80",
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3831,
+      "productId": 34,
       "productSku": "test1234",
-      "productName": "Test Product",
+      "productName": "Carrot Premium",
       "productPrice": 10.99,
       "productShortName": "Test",
       "productDescription": "Description",
@@ -592,13 +608,13 @@ export class Product {
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000070_17-fresho-carrot-orange.jpg?tr=w-154,q-80",
+      "productImageUrl": "/images/nick-fewings-IZq1FV87qpM-unsplash.jpg",
       "categoryName": "Fruits & Vegetables"
     },
     {
-      "productId": 3661,
-      "productSku": "shj",
-      "productName": "khkbsjh",
+      "productId": 35,
+      "productSku": "",
+      "productName": "Fresh Mangoes",
       "productPrice": 32,
       "productShortName": "swhbk",
       "productDescription": "swxdkhbkhb",
@@ -608,29 +624,30 @@ export class Product {
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
-      items_left: 3,
-      "productImageUrl": "pexels-simon73-1183099.jpg",
+      items_left: 100,
+      "productImageUrl": "/images/hotchicksing-Dyc95dKuGp4-unsplash.jpg",
       "categoryName": "Bakery"
     },
     {
-      "productId": 3927,
+      "productId": 36,
       "productSku": "27362537",
       "productName": "Czinger 21C",
       "productPrice": 80000000,
       "productShortName": "Supercar",
       "productDescription": "",
       "createdDate": "2025-08-30T22:55:15.613",
-      "deliveryTimeSpan": "sting",
+      "deliveryTimeSpan": "15 Days",
       "categoryId": 168,
-      brand: "HAVELS",
+      brand: "TaA",
       discountPrice:140,
       is_in_inventory: true,
-      items_left: 3,
-      "categoryName" : ""
+      items_left: 150,
+      "categoryName" : "Cars",
+      "productImageUrl": "/images/ildar-garifullin-uX4Bjke_xUE-unsplash.jpg"
     },
 
      {
-      "productId": 3038,
+      "productId": 37,
       "productSku": "seddik",
       "productName": "Super Slim",
       "productPrice": 75,

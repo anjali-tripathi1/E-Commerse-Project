@@ -1,6 +1,6 @@
-/* body{
+body{
    margin: 20px auto;
-  } */
+  }
 
  .big-sale{
     width: 500px;
@@ -34,14 +34,10 @@ a:hover{
    color: #d1241e;
 }
 
- .discount{
-   display: inline-block;
-   margin: 0 10px;
-   font-size: 20px;
-}
+
 
 .box{
-   width: 300px;
+   width: 350px;
    height: 400px;
    border: 3px solid black;
    padding: 15px;
@@ -85,8 +81,8 @@ a:hover{
    height: 40px;
    border-radius: 5px;
    position: relative;
-   top: -30px;
-   left: 150px;
+   top: -15%;
+   left: 75%;
    margin: 10px;
 }
 
@@ -98,7 +94,7 @@ a:hover{
 
 
 .img-box{
-  width: 265px;
+  width: 315px;
   height: 250px;
 }
 
@@ -108,4 +104,7 @@ a:hover{
     border-radius: 10px;
 }
 
-
+.product-container{
+    display: inline-block;
+    margin: 10px 1.5rem;
+}
