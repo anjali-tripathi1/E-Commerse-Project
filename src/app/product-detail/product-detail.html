@@ -1,10 +1,10 @@
 
-<div class="container" *ngFor="let pro of products">
+<div class="container" >
    <div class="img-box">
-       <img src="{{pro.productImageUrl}}" alt="">
+       <img src="{{products.productImageUrl}}" alt="">
    </div>
-   <div>{{pro.productName}}</div>
-   <div>{{pro.productPrice}}</div>
-   <div>{{pro.brand}} . {{pro.deliveryTimeSpan}} . {{pro.categoryName}}</div>
-   <div>{{pro.items_left}}</div>
+   <div>{{products.productName}}</div>
+   <div>{{products.productPrice}}</div>
+   <div>{{products.brand}} . {{products.deliveryTimeSpan}} . {{products.categoryName}}</div>
+   <div>{{products.items_left}}</div>
 </div>

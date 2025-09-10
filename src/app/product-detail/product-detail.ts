@@ -15,13 +15,13 @@ export class ProductDetail {
 
    product:ProductService = inject(ProductService)
    activate:ActivatedRoute = inject(ActivatedRoute)
-   products!:Products[]
-   courseId!:number
+   products:Products
+   courseId:number
 
    ngOnInit(){
       // this.products = this.product.products
-      // this.courseId = this.activate.snapshot.paramMap.get('productId')
-      // this.products = this.product.products.find((course) => course.productId === this.courseId )
+       this.courseId = +this.activate.snapshot.paramMap.get('productId')
+       this.products = this.product.products.find((course) => course.productId === this.courseId)
    }
 
 
