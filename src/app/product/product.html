@@ -16,17 +16,19 @@
 </div>
 
 
-<div class="product-container"  *ngFor="let product of products">
-
-       <div class="box ">
+<div class=""  *ngFor="let product of products">
+     <div class="product-container">
+      <div class="box">
          <div class="img-box">
                   <img src="{{product.productImageUrl}}" alt="">
            </div>
-           <div class="">{{product.productName}}<h3></h3></div>
-          <div class="">{{product.productPrice}}</div>
-          <div class="">{{product.brand}} . {{product.deliveryTimeSpan}} . {{product.categoryName}}</div>
-         <div class="">{{product.items_left}}</div>
-   </div>
+           <div cl>{{product.productName}}</div>
+          <div >{{product.productPrice}}</div>
+          <div >{{product.brand}} . {{product.deliveryTimeSpan}} . {{product.categoryName}}</div>
+         <div >{{product.items_left}}</div>
+      </div>
+     </div>
+
   </div>
 
 

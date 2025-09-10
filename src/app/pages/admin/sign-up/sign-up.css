@@ -1,6 +1,6 @@
 .container{
-   width: 450px;
-   height: 660px;
+   width: 800px;
+   height: 410px;
    border-radius: 25px;
    /* border: 2px solid black; */
    margin: 5rem auto;
@@ -10,15 +10,19 @@
 }
 
 .name{
+    display: inline-block;
+   margin: 10px 15px;
    width: 350px;
    height: 40px;
    border-radius: 25px;
    padding: 10px;
-   margin: 15px 30px;
+   /* margin: 15px 30px; */
    border: none;
    color: #555;
 
 }
+
+
 
 .h2{
    text-align: center;
@@ -41,7 +45,7 @@
 .checkbox{
   position: relative;
   top: -8px;
-  left: 35px;
+  left: 28%;
    width: 20px;
    height: 20px;
    margin: 5px 0;
@@ -50,7 +54,7 @@
 .para{
   position: relative;
   top: -13px;
-  left: 45px;
+  left: 30%;
    display: inline-block;
    font-size: 14px;
    color: #555;
