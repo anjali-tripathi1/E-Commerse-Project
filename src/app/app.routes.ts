@@ -6,6 +6,7 @@ import { SignUp } from './pages/admin/sign-up/sign-up';
 import { Home } from './home/home';
 import { Products } from './pages/admin/products/products';
 import { Product } from './product/product';
+import { ProductDetail } from './product-detail/product-detail';
 
 export const routes: Routes = [
      {path:'header',  component:Header},
@@ -13,5 +14,6 @@ export const routes: Routes = [
      {path:'forget', component:Forget},
      {path:'sign-up', component:SignUp},
      {path:'home', component:Home},
-     {path:'product', component:Product}
+     {path:'product', component:Product},
+     {path:'product/:id', component:ProductDetail}
 ];

@@ -1,0 +1,32 @@
+import { Component, inject, Input } from '@angular/core';
+import { Product } from "../product/product";
+import { ProductService } from '../service/product.service';
+import { Products } from '../models/product';
+import { CommonModule } from '@angular/common';
+import { ActivatedRoute } from '@angular/router';
+
+@Component({
+  selector: 'app-product-detail',
+  imports: [CommonModule],
+  templateUrl: './product-detail.html',
+  styleUrl: './product-detail.css'
+})
+export class ProductDetail {
+
+   product:ProductService = inject(ProductService)
+   activate:ActivatedRoute = inject(ActivatedRoute)
+   products!:Products[]
+   courseId!:number
+
+   ngOnInit(){
+      // this.products = this.product.products
+      // this.courseId = this.activate.snapshot.paramMap.get('productId')
+      // this.products = this.product.products.find((course) => course.productId === this.courseId )
+   }
+
+
+
+
+
+
+}

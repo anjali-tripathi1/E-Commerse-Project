@@ -1,17 +1,19 @@
-export class Product{
-      // productId!: number
-      // productSku!: string
-      // productName!: string
-      // productPrice!: number
-      // productShortName!: string
-      // productDescription!: string
-      // createdDate!: Date
-      // deliveryTimeSpan!: string
-      // categoryId!: number
-      // productImageUrl!: string
-      // categoryName!: string
+export class Products{
+      productId!: number
+      productSku!: string
+      productName!: string
+      productPrice!: number
+      productShortName!: string
+      productDescription!: string
+      createdDate!: string
+      deliveryTimeSpan!: string
+      categoryId!: number
+      productImageUrl!: string
+      categoryName!: string
+      brand!:string
+      discountPrice!:number
+      is_in_inventory!:boolean
+      items_left!:number
 
-      // constructor(productId:number, productName:string, productPrice:string, productDescription:string, ){
 
-      // }
 }

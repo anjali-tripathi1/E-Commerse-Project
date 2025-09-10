@@ -7,12 +7,13 @@ import { Forget } from "./pages/admin/forget/forget";
 import { Home } from "./home/home";
 import { ApiService } from './service/api.service';
 import { Footer } from "./footer/footer";
+import { ProductDetail } from "./product-detail/product-detail";
 
 
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Header, Footer],
+  imports: [RouterOutlet, Header],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
