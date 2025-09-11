@@ -15,5 +15,8 @@ export const routes: Routes = [
      {path:'sign-up', component:SignUp},
      {path:'home', component:Home},
      {path:'product', component:Product},
-     {path:'product/:id', component:ProductDetail}
+    //  {path:'product', children:[
+    //    {path:'product/:id', component:ProductDetail}
+    //  ]}
+    {path:'product/:id', component:ProductDetail}
 ];

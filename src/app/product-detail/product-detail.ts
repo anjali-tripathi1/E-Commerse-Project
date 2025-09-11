@@ -4,10 +4,11 @@ import { ProductService } from '../service/product.service';
 import { Products } from '../models/product';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute } from '@angular/router';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-product-detail',
-  imports: [CommonModule],
+  imports: [CommonModule, FormsModule],
   templateUrl: './product-detail.html',
   styleUrl: './product-detail.css'
 })
@@ -20,8 +21,12 @@ export class ProductDetail {
 
    ngOnInit(){
       // this.products = this.product.products
-       this.courseId = +this.activate.snapshot.paramMap.get('productId')
+       this.courseId = +this.activate.snapshot.paramMap.get('id')
+       console.log(this.courseId);
+
        this.products = this.product.products.find((course) => course.productId === this.courseId)
+
+      //  this.products = this.product.products
    }
 
 

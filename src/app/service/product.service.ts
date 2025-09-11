@@ -10,7 +10,7 @@ export class ProductService{
                    {
       productId: 1,
       productSku: "NNG",
-      productName: "Exclusive Premium Watch",
+      productName: "Chronova Premium Watch",
       productPrice: 998,
       productShortName: "Watch1 edit",
       productDescription: "Watchnjhuyu",
@@ -29,7 +29,7 @@ export class ProductService{
      {
       productId: 2,
       productSku: "ABCD",
-      productName: "Allegant Luxury Watch",
+      productName: "Chronova Luxury Watch",
       productPrice: 60000,
       productShortName: "Watch edit",
       productDescription: "Watch",
@@ -48,7 +48,7 @@ export class ProductService{
      {
       productId: 3,
       "productSku": "0000",
-      "productName": " Watch",
+      "productName": "Timexel Watch",
       "productPrice": 91,
       "productShortName": "Watch",
       "productDescription": "Watchaaa",
@@ -65,7 +65,7 @@ export class ProductService{
     {
       productId: 4,
       "productSku": "dfghj",
-      "productName": "Watch",
+      "productName": "Zentime Watch",
       "productPrice": 80,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -82,7 +82,7 @@ export class ProductService{
     {
       productId: 5,
       productSku: "watch",
-      productName: "watch",
+      productName: "Vantique watch",
       productPrice: 345,
       productShortName: "watch",
       productDescription: "dfsdfsgsdgssd",
@@ -94,12 +94,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       productImageUrl: "gsgsdsdgsdg",
-      categoryName: "Bricolage"
+      categoryName: "Electronics"
     },
     {
       "productId": 6,
       "productSku": "ssss",
-      "productName": "Watch",
+      "productName": "Zentime Watch",
       "productPrice": 66,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -111,12 +111,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1690343430066-d4634276895d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Electronics"
     },
     {
       "productId": 7,
       "productSku": "Alphanso Mangoes",
-      "productName": "Watch",
+      "productName": "Vantique Watch",
       "productPrice": 60,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -128,7 +128,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1610689057803-1b1fe41f2dde?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Electronics"
     },
     {
       "productId": 8,
@@ -145,7 +145,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://peekncooksa.blob.core.windows.net/index-blogposts/bigbasket.jpg",
-      "categoryName": "Flours & Sooji"
+      "categoryName": "Electronics"
     },
     {
       "productId": 9,
@@ -162,12 +162,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/236915/pexels-photo-236915.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Dry Fruits"
+      "categoryName": "Electronics"
     },
     {
       "productId": 10,
       "productSku": "kab",
-      "productName": "Watch",
+      "productName": "Venoms Extra Watch",
       "productPrice": 85,
       "productShortName": "Watch",
       "productDescription": "Watch Valo na",
@@ -196,7 +196,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1740206545163-32513c70fe19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Cakes & Pastries"
+      "categoryName": "Electronics"
     },
     {
       "productId": 12,
@@ -206,14 +206,14 @@ export class ProductService{
       "productShortName": "Watch",
       "productDescription": "Watch",
       "createdDate": "2024-12-07T20:35:02.77",
-      "deliveryTimeSpan": "1-2days",
+      "deliveryTimeSpan": "2days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 13,
@@ -223,14 +223,14 @@ export class ProductService{
       "productShortName": "Watch",
       "productDescription": "Watch\n",
       "createdDate": "2024-12-13T17:31:03.693",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "3 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Electronics"
     },
     {
       "productId": 14,
@@ -247,12 +247,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1598086950419-24d4ee8a6866?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ0fHx3YXRjaHN8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Electronics"
     },
     {
       "productId": 15,
       "productSku": "Pomegranate",
-      "productName": "Watch",
+      "productName": "AlamEra Watch",
       "productPrice": 57,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -264,63 +264,63 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Electronics"
     },
     {
       "productId": 16,
       "productSku": "1235",
-      "productName": "Watch",
+      "productName": "Vartica Watch",
       "productPrice": 100,
       "productShortName": "Watch",
       "productDescription": "Watch",
       "createdDate": "2025-01-31T10:24:46.327",
-      "deliveryTimeSpan": "3 dayes",
+      "deliveryTimeSpan": "3 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/12936607/pexels-photo-12936607.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Electronics"
     },
     {
       "productId": 17,
       "productSku": "400g",
-      "productName": "Watch",
+      "productName": "Alaska Minus Watch",
       "productPrice": 60,
       "productShortName": "Watch",
       "productDescription": "Watch",
       "createdDate": "2025-03-10T17:00:44.437",
       "deliveryTimeSpan": "1 day",
       "categoryId": 55,
-      brand: "HAVELS",
+      brand: "SAMSUNG",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1654208398202-1edef1cf23b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Electronics"
     },
     {
       "productId": 18,
       "productSku": "D3",
-      "productName": "Watch",
+      "productName": "Varticam Watch",
       "productPrice": 90,
       "productShortName": "Watch",
       "productDescription": "Watch",
       "createdDate": "2025-04-08T15:15:33.697",
       "deliveryTimeSpan": "1-2 months",
       "categoryId": 56,
-      brand: "HAVELS",
+      brand: "LYOD",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1666238854780-d6c19c5c119e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Foodgrains"
+      "categoryName": "Electronics"
     },
     {
       "productId": 19,
       "productSku": "qz",
-      "productName": "Watch",
+      "productName": "Armira Premimum Watch",
       "productPrice": 44,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -332,12 +332,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/3829441/pexels-photo-3829441.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Foodgrains"
+      "categoryName": "Electronics"
     },
     {
       "productId": 20,
       "productSku": "test bbb",
-      "productName": "Watch",
+      "productName": "Marthana Watch",
       "productPrice": 45,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -349,12 +349,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Bakery"
+      "categoryName": "Electronics"
     },
     {
       "productId": 21,
       "productSku": "Mustard Oil",
-      "productName": "Watch",
+      "productName": "Mustin Luxury Watch",
       "productPrice": 82,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -366,7 +366,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1714788936699-ef07040e60bc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Foodgrains"
+      "categoryName": "Electronics"
     },
     {
       "productId": 22,
@@ -383,12 +383,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/2373730/pexels-photo-2373730.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Bakery"
+      "categoryName": "Electronics"
     },
     {
       productId: 23,
       productSku: "AHAH",
-      productName: "Watch",
+      productName: "Amara Elegent Watch",
       productPrice: 78,
       productShortName: "Watch",
       productDescription: "Watch",
@@ -400,12 +400,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       productImageUrl: "https://images.unsplash.com/photo-1620404426680-fa32422d7882?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fHdhdGNoc3xlbnwwfHwwfHx8MA%3D%3D",
-      categoryName: "Bakery"
+      categoryName: "Electronics"
     },
     {
       productId: 24,
       productSku: "z",
-      productName: "Watch cai dit me may",
+      productName: "Zic Watch",
       productPrice: 690,
       productShortName: "Watc rand",
       productDescription: "Watch",
@@ -417,12 +417,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       productImageUrl: "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg?auto=compress&cs=tinysrgb&w=600",
-      categoryName: "Foodgrains"
+      categoryName: "Electronics"
     },
     {
       productId: 25,
       productSku: " xcxv",
-      productName: "vxv",
+      productName: "Ecama Watch",
       productPrice: 40,
       productShortName: "vxv",
       productDescription: "vcvcvc",
@@ -434,14 +434,14 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       productImageUrl: "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=600",
-      categoryName: "Fruits & Vegetables"
+      categoryName: "Electronics"
     },
 
 
      {
       "productId": 26,
       "productSku": "vbh",
-      "productName": "bvbvb",
+      "productName": "Pyra Watches",
       "productPrice": 17,
       "productShortName": "vv",
       "productDescription": "vncgchhyf",
@@ -453,7 +453,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/68201/male-watch-wrist-watch-packshot-time-68201.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Foodgrains"
+      "categoryName": "Electronics"
     },
     {
       "productId": 27,
@@ -463,14 +463,14 @@ export class ProductService{
       "productShortName": "tomato",
       "productDescription": "fresho! Tomato - Local (Loose), 500 g",
       "createdDate": "2025-09-03T17:20:11.313",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000204_18-fresho-tomato-local.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 28,
@@ -480,14 +480,14 @@ export class ProductService{
       "productShortName": "Tomate",
       "productDescription": "O tomate é o fruto da planta Solanum lycopersicum, pertencente à família das solanáceas (a mesma da batata, pimentão e berinjela). Ele é amplamente consumido em todo o mundo e é conhecido pelo seu sabor ligeiramente ácido e doce, além de sua versatilidade culinária — utilizado em saladas, molhos, sucos, sopas e muito mais.  Cores comuns: vermelho, amarelo, laranja, verde  Formatos: redondo, alongado, cereja (tomate-cereja), entre outros  Composição: rico em água (~95%), vitaminas (A, C, K), potássio e o antioxidante licopeno (principalmente nos vermelhos)",
       "createdDate": "2025-08-13T19:17:08.44",
-      "deliveryTimeSpan": "5",
+      "deliveryTimeSpan": "5 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.infoescola.com/wp-content/uploads/2011/01/tomate_345187874.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 29,
@@ -497,14 +497,14 @@ export class ProductService{
       "productShortName": "Tomate",
       "productDescription": "O tomate é o fruto da planta Solanum lycopersicum, pertencente à família das solanáceas (a mesma da batata, pimentão e berinjela). Ele é amplamente consumido em todo o mundo e é conhecido pelo seu sabor ligeiramente ácido e doce, além de sua versatilidade culinária — utilizado em saladas, molhos, sucos, sopas e muito mais.  Cores comuns: vermelho, amarelo, laranja, verde  Formatos: redondo, alongado, cereja (tomate-cereja), entre outros  Composição: rico em água (~95%), vitaminas (A, C, K), potássio e o antioxidante licopeno (principalmente nos vermelhos)",
       "createdDate": "2025-08-13T19:19:48.64",
-      "deliveryTimeSpan": "5",
+      "deliveryTimeSpan": "5 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "/images/pexels-rauf-allahverdiyev-561368-1367242.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 30,
@@ -516,12 +516,12 @@ export class ProductService{
       "createdDate": "2025-04-07T15:22:51.753",
       "deliveryTimeSpan": "1-2 Days",
       "categoryId": 55,
-      brand: "HAVELS",
+      brand: "AJANTA",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/07822241-8137-49F5-A84E-35A96B0F88E4_400x.jpg?v=1734640468",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 31,
@@ -538,7 +538,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/E20DE5ED-4766-498E-ABC6-18792BA1B440_400x.jpg?v=1726061040",
-      "categoryName": "Cuts & Sprouts"
+      "categoryName": "Clothes"
     },
     {
       "productId": 32,
@@ -555,7 +555,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/A374C201-77EC-4FE0-94F5-84F6206BB696_400x.jpg?v=1734701064",
-      "categoryName": "Clothings"
+      "categoryName": "Clothes"
     },
     {
       "productId": 33,
@@ -565,14 +565,14 @@ export class ProductService{
       "productShortName": "Test",
       "productDescription": "Description",
       "createdDate": "2025-07-29T23:51:09.963",
-      "deliveryTimeSpan": "2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: false,
       items_left: 10,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000070_17-fresho-carrot-orange.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 34,
@@ -589,7 +589,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "/images/nick-fewings-IZq1FV87qpM-unsplash.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 35,
@@ -599,14 +599,14 @@ export class ProductService{
       "productShortName": "swhbk",
       "productDescription": "swxdkhbkhb",
       "createdDate": "2025-05-21T09:14:56.52",
-      "deliveryTimeSpan": "3 dyas",
+      "deliveryTimeSpan": "3 days",
       "categoryId": 57,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 100,
       "productImageUrl": "/images/hotchicksing-Dyc95dKuGp4-unsplash.jpg",
-      "categoryName": "Bakery"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 36,
@@ -641,7 +641,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/4CB9D07F-0A95-46DE-800A-1D681A5CFA2B_800x.jpg?v=1708094738",
-      "categoryName": "Bakery"
+      "categoryName": "Clothes"
     },
     {
       "productId": 38,
@@ -658,7 +658,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/D3A90D64-CECE-4351-AFBF-B16D16321F5A_400x.jpg?v=1739029380",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 39,
@@ -675,7 +675,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/products/image_edf74fce-e642-44be-9041-98cad581b773_400x.jpg?v=1686227741",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 40,
@@ -685,14 +685,14 @@ export class ProductService{
       "productShortName": "Super Slim",
       "productDescription": "new",
       "createdDate": "2024-10-22T15:56:04.78",
-      "deliveryTimeSpan": "20 Days",
+      "deliveryTimeSpan": "5 Days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/662B3DB4-FB72-447A-8188-B8DFD8BC5662_400x.jpg?v=1700755959",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 41,
@@ -709,7 +709,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://tse2.mm.bing.net/th?id=OIP.FysfB3sHoL_54Lo9RqZLCQHaEo&pid=Api&P=0&h=180",
-      "categoryName": "Bakery"
+      "categoryName": "Clothes"
     },
     {
       "productId": 42,
@@ -726,7 +726,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/BA1EE766-55D3-4140-BA52-B66C739558BF_400x.jpg?v=1724919725",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 42,
@@ -743,7 +743,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/FAA2C9A6-EDCF-4107-B15E-E0C9A30FE9CB_800x.jpg?v=1730914479",
-      "categoryName": "Beverages"
+      "categoryName": "Clothes"
     },
     {
       "productId": 43,
@@ -760,7 +760,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1585147877975-6acd0a929a46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Snacks"
+      "categoryName": "Shoes"
     },
     {
       "productId": 44,
@@ -777,7 +777,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1550399865-ec7d23b18e8e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE5fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Foodgrains"
+      "categoryName": "Shoes"
     },
     {
       "productId": 45,
@@ -794,7 +794,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Foodgrains"
+      "categoryName": "Shoes"
     },
     {
       "productId": 46,
@@ -811,7 +811,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1558004282-e2b2587e3e47?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE2fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Foodgrains"
+      "categoryName": "Shoes"
     },
     {
       "productId": 47,
@@ -828,7 +828,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Bakery"
+      "categoryName": "Shoes"
     },
     {
       "productId": 48,
@@ -845,7 +845,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1512990414788-d97cb4a25db3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Bakery"
+      "categoryName": "Shoes"
     },
     {
       "productId": 49,
@@ -862,7 +862,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1533681018184-68bd1d883b97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg3fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 50,
@@ -879,7 +879,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1612902377756-414b2139d5e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 51,
@@ -896,7 +896,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1561808843-7adeb9606939?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTczfHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 52,
@@ -913,7 +913,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1715692965423-28e7b823a60d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 53,
@@ -930,7 +930,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA5fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 54,
@@ -947,7 +947,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1605034313761-73ea4a0cfbf3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 55,
@@ -964,7 +964,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1588361861040-ac9b1018f6d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzAwfHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 56,
@@ -981,7 +981,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1621665421571-2d325f9c7c6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 57,
@@ -998,7 +998,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1506544777-64cfbe1142df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE4fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 58,
@@ -1015,7 +1015,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1539874202413-c1f47b33169f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU3fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 59,
@@ -1032,7 +1032,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 60,
@@ -1049,7 +1049,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1571859856639-d54ab2c18ba0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 61,
@@ -1066,7 +1066,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1524532787116-e70228437bbe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Shoes"
     },
     {
       "productId": 62,
@@ -1083,7 +1083,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1622760807800-66cf1466fc08?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM5fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Edible Oils"
+      "categoryName": "Shoes"
     },
     {
       "productId": 63,
@@ -1100,7 +1100,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1519810409043-b6d44921bfa2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjc1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Dry Fruits"
+      "categoryName": "Shoes"
     },
     {
       "productId": 64,
@@ -1117,7 +1117,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1534211129854-99797e4df89d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA4fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Shoes"
     },
     {
       "productId": 65,
@@ -1134,7 +1134,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1603808033176-9d134e6f2c74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Shoes"
     },
     {
       "productId": 66,
@@ -1151,7 +1151,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Flower Bouquets"
+      "categoryName": "Shoes"
     },
     {
       "productId": 67,
@@ -1168,7 +1168,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1616406432452-07bc5938759d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Shoes"
     },
     {
       "productId": 68,
@@ -1185,7 +1185,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1552066344-2464c1135c32?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjc3fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Flower Bouquets"
+      "categoryName": "Shoes"
     },
     {
       "productId": 69,
@@ -1202,7 +1202,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1603191659812-ee978eeeef76?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM3fHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Flower Bouquets"
+      "categoryName": "Shoes"
     },
     {
       "productId": 70,
@@ -1219,7 +1219,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1565299999261-28ba859019bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgyfHxzaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Bakery Snacks"
+      "categoryName": "Shoes"
     },
     {
       "productId": 71,
@@ -1236,7 +1236,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTV8fHNob2VzfGVufDB8fDB8fHww",
-      "categoryName": "Fragrances"
+      "categoryName": "Shoes"
     },
     {
       "productId": 72,
@@ -1253,7 +1253,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/293405/pexels-photo-293405.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "T-shirts"
+      "categoryName": "Shoes"
     },
     {
       "productId": 73,
@@ -3548,7 +3548,7 @@ export class ProductService{
       is_in_inventory: false,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3102,
@@ -3565,7 +3565,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 1203,
@@ -3582,7 +3582,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://plus.unsplash.com/premium_photo-1670984076180-22a6c8f27f2b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 917,
@@ -3599,7 +3599,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1711548244653-72219aa9ac27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgwfHxiYWd8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 750,
@@ -3616,7 +3616,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2607,
@@ -3633,7 +3633,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1566150902887-9679ecc155ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2477,
@@ -3650,7 +3650,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2852,
@@ -3667,7 +3667,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1632282003890-020318a49e62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2708,
@@ -3684,7 +3684,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1524679813234-66a389fe1a42?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2370,
@@ -3871,7 +3871,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "data:image/jpeg;base64,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",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3859,
@@ -3888,7 +3888,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2722,
@@ -3905,7 +3905,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtywKdongNUiZ8YexgVsgx4hOkSSONFea6eA&s",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3913,
@@ -3922,7 +3922,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3871,
@@ -3939,7 +3939,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://cdn.awsli.com.br/600x700/305/305913/produto/10293569/couve-chinesa-unidade-4e69c1d7.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2668,
@@ -3973,7 +3973,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3888,
@@ -4058,7 +4058,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/l/40018523_5-fresho-cucumber-english.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3009,
@@ -4092,7 +4092,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/F9AC863E-4CB4-4164-ADFE-8A8C0086CBCE_800x.jpg?v=1740842108",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3049,
@@ -4126,7 +4126,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/FS_BF_FJVC_Nov24-3557_400x.jpg?v=1730912181",
-      "categoryName": "soft drinks"
+      "categoryName": "T-Shirts"
     },
     {
       "productId": 3923,
@@ -4136,14 +4136,14 @@ export class ProductService{
       "productShortName": "",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g)",
       "createdDate": "2025-08-29T22:52:40.713",
-      "deliveryTimeSpan": "sting",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bigbasket.com/pd/10000074/fresho-cauliflower-1-pc/?nc=smart_basket&nc=My+Smart+Basket&t_pg=%252Foct-homepage-t1%252F&t_p=Oct-T1_2023&t_pos_sec=3&t_ch=desktop&t_pos_item=3&t_s=Cauliflower",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     }
      ]
 

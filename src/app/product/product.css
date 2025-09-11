@@ -38,11 +38,14 @@ a:hover{
 
 .box{
    width: 350px;
-   height: 400px;
+   height: 500px;
    border: 3px solid black;
    padding: 15px;
    border-radius: 15px;
    margin: 15px 10px;
+   box-shadow: 5px 5px 10px 0 #aaa;
+   /* background-color: #999; */
+   background-image: url('/images/blue-abstract-layered-stripes-background.jpg');
 }
 
 .intro{
@@ -69,7 +72,8 @@ a:hover{
    color: gold;
    font-size: 20px;
    padding: 0px 3px;
-
+   position: relative;
+   left: -5px;
 }
 
 .star-1{
@@ -81,7 +85,7 @@ a:hover{
    height: 40px;
    border-radius: 5px;
    position: relative;
-   top: -15%;
+   top: -2%;
    left: 75%;
    margin: 10px;
 }
@@ -107,4 +111,55 @@ a:hover{
 .product-container{
     display: inline-block;
     margin: 10px 1.5rem;
+}
+
+.detail{
+   position: relative;
+   top: -50px;
+   left: -4px;
+   background-color: red;
+   padding: 8px 30px;
+   color: white;
+   border-radius: 15px;
+   font-weight: bold;
+}
+
+
+.detail:hover{
+   color: black;
+   background-color: #555;
+   font-weight: bold;
+}
+
+.name{
+   font-weight: bold;
+   color: #555;
+   font-size: 18px;
+   margin-top: 5px;
+}
+
+.pro{
+  display: inline-block;
+   background-color: #282828;
+   color: white;
+   padding: 3px 10px;
+   border-radius: 10px;
+}
+
+.pri{
+   font-weight: bold;
+   color: #d1241e;
+   font-size: 18px;
+}
+
+.left{
+  display: inline-block;
+   /* color: #555; */
+   font-weight: bold;
+   margin: 10px 0;
+   font-size: 17px;
+   background-color: #cfcfcf;
+   color: #000;
+   border-radius: 10px;
+   padding: 3px 10px;
 }

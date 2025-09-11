@@ -2,7 +2,7 @@ import { Component, inject, OnInit } from '@angular/core';
 import { ApiService } from '../service/api.service';
 import { CommonModule } from '@angular/common';
 import { Task } from '../task';
-import { RouterLink } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 import { ProductDetail } from "../product-detail/product-detail";
 import { ProductService } from '../service/product.service';
 import { Products } from '../models/product';
@@ -19,6 +19,7 @@ export class Product {
 
     api:ApiService = inject(ApiService)
     product:ProductService = inject(ProductService)
+    router:Router = inject(Router)
     task!:Products[]
 
     // loadTask(){
@@ -32,6 +33,9 @@ export class Product {
     }
 
 
+    navigate(){
+       this.router.navigate([`product/id`])
+    }
 
 
 

@@ -20,10 +20,10 @@
          <div class="img-box">
                   <img src="{{product.productImageUrl}}" alt="">
            </div>
-           <div cl>{{product.productName}}</div>
-          <div >{{product.productPrice}}</div>
-          <div >{{product.brand}} . {{product.deliveryTimeSpan}} . {{product.categoryName}}</div>
-         <div >{{product.items_left}}</div>
+           <div class="name">{{  product.productName }}</div>
+          <div class="pri">{{product.productPrice | currency : 'INR' : true: '2.0' }}</div>
+          <div ><p class="pro">{{product.brand}}</p> . <p class="pro">{{product.deliveryTimeSpan}}</p> . <p class="pro">{{product.categoryName}}</p></div>
+         <div class="left">Items Left : {{product.items_left}}</div>
 
     <div class="star">
       <i class="star fa fa-star"></i>
@@ -34,8 +34,11 @@
    </div>
    <div class="star-1">
      <i class="fa-solid fa-cart-plus star-2"></i>
-    <a routerLink="/product-detail">Details</a>
+
+
    </div>
+      <a [routerLink]="'/product/'+ product.productId" class="detail">Details</a>
+
       </div>
      </div>
 
