@@ -3,8 +3,9 @@
     border: 2px solid black;
     width: 1100px;
     margin: 5rem auto;
-    height: 800px;
+    height: 900px;
     background-image: url('/images/n-n-BtbjCFUvBXs-unsplash.jpg');
+    /* padding: 0 15px; */
 }
 
 .img-box{
@@ -35,4 +36,16 @@
   height: 100%;
   border-radius: 15px;
   margin: 10px 25px;
+}
+
+.name{
+   font-weight: bold;
+   color: #eb120a;
+   font-size: 25px;
+   margin-top: 5px;
+}
+
+.container-2{
+   padding: 10px 20px;
+   line-height: 1.7;
 }

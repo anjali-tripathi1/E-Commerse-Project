@@ -2,12 +2,15 @@
 
 .container{
    display: flex;
+   position: fixed;
+   top: 0;
    justify-content: space-around;
    background-color: #fff;
    box-shadow: 5px 5px 10px 0 #aaa;
    height: 64px;
    z-index: 999;
    opacity: 0.95;
+   width: 100%;
 }
 
 .links{

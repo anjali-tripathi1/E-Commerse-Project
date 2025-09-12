@@ -11,8 +11,17 @@
    <div class="img-box">
        <img src="{{products.productImageUrl}}" alt="">
    </div>
-   <div>{{products.productName}}</div>
-   <div>{{products.productPrice}}</div>
-   <div>{{products.brand}} . {{products.deliveryTimeSpan}} . {{products.categoryName}}</div>
-   <div>{{products.items_left}}</div>
+
+   <div class="container-2">
+        <div class="name">{{products.productName}}</div>
+        <div>{{products.productPrice}}</div>
+        <div>{{products.brand}} . {{products.deliveryTimeSpan}} . {{products.categoryName}}</div>
+        <div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid vel esse neque atque quos illo non praesentium incidunt delectus vero, cum consequatur hic modi eaque labore magni ullam. Quasi laborum ut amet animi commodi expedita voluptatem numquam a aliquid, harum perspiciatis iste, enim consectetur quidem, autem dicta quas dolore! Quasi.</p></div>
+        <div>Items Left : {{products.items_left}}</div>
+        <div>Buy Now</div>
+        <div>Add To Cart</div>
+   </div>
+
 </div>
+
+<app-footer></app-footer>

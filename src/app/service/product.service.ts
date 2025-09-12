@@ -342,7 +342,7 @@ export class ProductService{
       "productShortName": "Watch",
       "productDescription": "Watch",
       "createdDate": "2024-04-18T15:11:32.89",
-      "deliveryTimeSpan": "30-120 min",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 57,
       brand: "HAVELS",
       discountPrice:140,
@@ -1355,41 +1355,41 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/4D6520C5-8EE1-4784-B421-9FBDBBC67C20_800x.jpg?v=1742395560",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 79,
       "productSku": "dkfjglsdf",
-      "productName": "dfg",
+      "productName": "Cauliflower",
       "productPrice": 20,
       "productShortName": "sd",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g)",
       "createdDate": "2025-08-29T22:55:09.567",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 80,
       "productSku": "sa",
-      "productName": "sa",
+      "productName": "Tomato",
       "productPrice": 10,
       "productShortName": "sa",
       "productDescription": "sad",
       "createdDate": "2025-08-23T23:02:34.04",
-      "deliveryTimeSpan": "",
+      "deliveryTimeSpan": "1day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://media.istockphoto.com/id/1450576005/photo/tomato-isolated-tomato-on-white-background-perfect-retouched-tomatoe-side-view-with-clipping.jpg?s=612x612&w=0&k=20&c=lkQa_rpaKpc-ELRRGobYVJH-eMJ0ew9BckCqavkSTA0=",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 81,
@@ -1401,12 +1401,12 @@ export class ProductService{
       "createdDate": "2024-10-22T16:00:17.247",
       "deliveryTimeSpan": " 2 days",
       "categoryId": 55,
-      brand: "HAVELS",
+      brand: "LORA",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/1A2AD613-7787-4036-9492-C5B7B29224A6_800x.jpg?v=1739974446",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 82,
@@ -1423,7 +1423,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/69337CF1-3698-4CF3-94E2-B3B20D29D5D2_400x.jpg?v=1740864292",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 83,
@@ -1433,14 +1433,14 @@ export class ProductService{
       "productShortName": "Ribbed Zipped",
       "productDescription": "Ribbed Zipped",
       "createdDate": "2024-11-01T21:33:45.347",
-      "deliveryTimeSpan": "20 Days",
+      "deliveryTimeSpan": "2 Days",
       "categoryId": 131,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/C2AEA734-5336-42EB-B56D-590FB781A4EB_800x.jpg?v=1740861930",
-      "categoryName": "Technology"
+      "categoryName": "Clothes"
     },
     {
       "productId": 84,
@@ -1457,7 +1457,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/94436D4D-9DE2-42AB-9BF3-6E91F25BD66A_800x.jpg?v=1741782288",
-      "categoryName": "soft drinks"
+      "categoryName": "Clothes"
     },
     {
       "productId": 85,
@@ -1467,14 +1467,14 @@ export class ProductService{
       "productShortName": "Ribbed Zipped",
       "productDescription": "Ribbed Zipped",
       "createdDate": "2024-11-13T17:22:20.09",
-      "deliveryTimeSpan": "9-10mies",
+      "deliveryTimeSpan": "3 day",
       "categoryId": 63,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/55D883F2-773E-44CE-973B-624045A46B89_800x.jpg?v=1740842171",
-      "categoryName": "Exotic Fruits "
+      "categoryName": "Clothes"
     },
     {
       "productId": 86,
@@ -1491,12 +1491,12 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/04747606-2F05-470F-9B13-33AE35350F37_800x.jpg?v=1711289990",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 87,
       "productSku": "Shubham",
-      "productName": "Red Denim Short Sleeve with Button Down Collar",
+      "productName": "Red Denim Short Sleeve",
       "productPrice": 75,
       "productShortName": "Red Denim Short Sleeve with Button Down Collar",
       "productDescription": "new",
@@ -1508,7 +1508,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/F6A15FE5-2FCB-4D32-9CF1-90842E00E716_800x.jpg?v=1732774887",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 88,
@@ -1559,7 +1559,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/F5228F85-274F-48BC-9305-EB6120037C8D_800x.jpg?v=1742580609",
-      "categoryName": "Edible Oils"
+      "categoryName": "Clothes"
     },
     {
       "productId": 91,
@@ -1576,7 +1576,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/2D931D02-D4D5-46DC-BA15-4675393FFC78_800x.jpg?v=1744128645",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 92,
@@ -1593,7 +1593,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/74A5DA57-F574-4D39-95D8-C8A1F164CBF6_800x.jpg?v=1722873370",
-      "categoryName": "Foodgrains"
+      "categoryName": "Clothes"
     },
     {
       "productId": 93,
@@ -1603,14 +1603,14 @@ export class ProductService{
       "productShortName": "Potato",
       "productDescription": "",
       "createdDate": "2025-05-19T19:38:30.703",
-      "deliveryTimeSpan": "2-3 days",
+      "deliveryTimeSpan": "2 days",
       "categoryId": 176,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://pictures.grocerapps.com/original/grocerapp-potato-cultina-red-095--681f95c0c49cd.png",
-      "categoryName": "Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 94,
@@ -1627,7 +1627,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/D2348619-D566-462A-9486-D51140142EAF_400x.jpg?v=1731517296",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 95,
@@ -1637,14 +1637,14 @@ export class ProductService{
       "productShortName": "Plain Jacket",
       "productDescription": "Plain Jacket",
       "createdDate": "2025-01-13T16:04:32.86",
-      "deliveryTimeSpan": "1-2 dayes",
+      "deliveryTimeSpan": "1-2 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/B509BA3F-E339-402E-BB27-BEDA215E708F_400x.jpg?v=1731516927",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 96,
@@ -1661,7 +1661,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/AB2C3446-5A46-44EC-944A-1A218470B986_400x.jpg?v=1732607104",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 97,
@@ -1678,7 +1678,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/5D70F6C1-D38E-42C6-9802-DEC4AD83F85D_800x.jpg?v=1732606737",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 98,
@@ -1688,14 +1688,14 @@ export class ProductService{
       "productShortName": "Onion",
       "productDescription": "About the Product\nOnion - Organically Grown are carefully nurtured to ensure they retain their natural flavour, nutritional goodness, and freshness. Ideal for enhancing a wide range of dishes including salads, soups, stews, and curries, these onions offer a robust taste and crisp texture.",
       "createdDate": "2025-06-28T17:21:59.477",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/40050957_6-fresho-onion-organically-grown.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 99,
@@ -1763,7 +1763,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/28DDD24B-ACCC-4558-9961-09E3342CE725_800x.jpg?v=1716911858",
-      "categoryName": "Snacks"
+      "categoryName": "Clothes"
     },
     {
       "productId": 2681,
@@ -1780,7 +1780,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/22709804-4C3D-49A8-9571-66353DF3009B_400x.jpg?v=1714486307",
-      "categoryName": "Cakes & Pastries"
+      "categoryName": "Clothes"
     },
     {
       "productId": 2863,
@@ -1797,7 +1797,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/E41D6718-F77D-4D15-ADC2-18304A6AF699_800x.jpg?v=1720793997",
-      "categoryName": "Cakes & Pastries"
+      "categoryName": "Clothes"
     },
     {
       "productId": 3649,
@@ -1814,7 +1814,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.google.com/imgres?q=carrot&imgurl=https%3A%2F%2Fwww.hhs1.com%2Fhubfs%2Fcarrots%2520on%2520wood-1.jpg&imgrefurl=https%3A%2F%2Fwww.hhs1.com%2Fliving-well%2Fcarrots-a-nutritious-and-versatile-root-vegetable&docid=UxgMqz-B3K29nM&tbnid=9arQVSupvv6xqM&vet=12ahUKEwjSssbwqaWNAxVSV6QEHQBLEGUQM3oFCIcBEAA..i&w=2500&h=1667&hcb=2&ved=2ahUKEwjSssbwqaWNAxVSV6QEHQBLEGUQM3oFCIcBEAA",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3043,
@@ -1831,7 +1831,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/5AF1A098-5975-4BF0-A610-1246781A7779_400x.jpg?v=1737303230",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Clothes"
     },
     {
       "productId": 2773,
@@ -1841,14 +1841,14 @@ export class ProductService{
       "productShortName": "Musk Melon",
       "productDescription": "50 KG",
       "createdDate": "2024-11-13T08:40:11.443",
-      "deliveryTimeSpan": "4-5 Day",
+      "deliveryTimeSpan": "1 Day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.budsayaton.com/images/%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89-1-p-500.png",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2859,
@@ -1916,17 +1916,17 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "data:image/jpeg;base64,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",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 743,
       "productSku": "AD",
-      "productName": "Local",
+      "productName": "Tea",
       "productPrice": 50,
       "productShortName": "LTC",
       "productDescription": "Test Description",
       "createdDate": "2024-03-12T23:04:26.233",
-      "deliveryTimeSpan": "25-10-2024",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 58,
       brand: "HAVELS",
       discountPrice:140,
@@ -2011,14 +2011,14 @@ export class ProductService{
       "productShortName": "ladie's finger",
       "productDescription": "fresho! Ladies' Fingers (Loose), 1 kg.\nAbout the Product\n\nLadies' Fingers is a green vegetable with a tip at the end and a lighter green head, which is inedible and to be thrown away. It tastes mild and slightly grassy. Ladies' Fingers or okra is a popular vegetable that is nutritious and has a high fibre content. It contains both soluble as well as insoluble fibres and is used in various recipes. The best way to select Ladies' Fingers is to look for smaller pods as they are tender. These also taste better. The brighter coloured ones and those that are unblemished, and firm are the best quality Ladies' Fingers. The Ladies' Fingers are sourced directly from the farmers and brought to the shelves carefully, ensuring that the vegetable maintains its freshness and nutrients.\nDo not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/2136/cheesy-okra-bhindi-fritters/",
       "createdDate": "2024-12-09T12:37:19.09",
-      "deliveryTimeSpan": "1-2 Days",
+      "deliveryTimeSpan": "1 Day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000142_18-fresho-ladies-finger.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3882,
@@ -2028,14 +2028,14 @@ export class ProductService{
       "productShortName": "Kiwi",
       "productDescription": "O kiwi, também chamado de quivi, é uma fruta originária da China, conhecida por sua casca marrom e aveludada, e polpa verde ou amarela. É uma fruta saborosa e nutritiva, rica em vitamina C e outros nutrientes essenciais para a saúde. O kiwi é uma excelente fonte de vitamina C, um antioxidante importante para o sistema imunológico e a saúde da pele.  Também contém vitaminas A, E, do complexo B, e minerais como potássio, magnésio, cobre e fósforo.  Rico em fibras, o kiwi auxilia na digestão e pode ter efeitos laxativos.  Além disso, possui propriedades anti-inflamatórias e antioxidantes. ",
       "createdDate": "2025-08-13T19:29:48.657",
-      "deliveryTimeSpan": "5",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.dole.com/sites/default/files/styles/1536w1152h-webp-80/public/media/2025-01/kiwi.png.webp?itok=OrrCkXRp-cvrFDOv4-BfTjDJ3M",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3920,
@@ -2045,14 +2045,14 @@ export class ProductService{
       "productShortName": "Kiwi",
       "productDescription": "test product",
       "createdDate": "2025-08-27T22:22:04.007",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.berries.com%2Farticles%2Ftastes%2Ftypes-of-fruit%3Fsrsltid%3DAfmBOop373PtdPlmurKflGcHOve-SDztASdUUemk_lxwwCTvjMeX-S1M&psig=AOvVaw3p3rq-fm_4FntyArbN5RTY&ust=1756399828685000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKiC3rC5q48DFQAAAAAdAAAAABAE",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3559,

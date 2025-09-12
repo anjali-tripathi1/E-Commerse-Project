@@ -5,10 +5,11 @@ import { Products } from '../models/product';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { Footer } from "../footer/footer";
 
 @Component({
   selector: 'app-product-detail',
-  imports: [CommonModule, FormsModule],
+  imports: [CommonModule, FormsModule, Footer],
   templateUrl: './product-detail.html',
   styleUrl: './product-detail.css'
 })
@@ -18,6 +19,7 @@ export class ProductDetail {
    activate:ActivatedRoute = inject(ActivatedRoute)
    products:Products
    courseId:number
+
 
    ngOnInit(){
       // this.products = this.product.products
