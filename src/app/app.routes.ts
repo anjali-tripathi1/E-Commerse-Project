@@ -9,11 +9,12 @@ import { Product } from './product/product';
 import { ProductDetail } from './product-detail/product-detail';
 
 export const routes: Routes = [
+      {path:'', component:Home},
+      {path:'home', component:Home},
      {path:'header',  component:Header},
      {path:'login', component:Login},
      {path:'forget', component:Forget},
      {path:'sign-up', component:SignUp},
-     {path:'home', component:Home},
      {path:'product', component:Product},
     //  {path:'product', children:[
     //    {path:'product/:id', component:ProductDetail}
