@@ -6,7 +6,7 @@ import { Home } from "../home/home";
 
 @Component({
   selector: 'app-header',
-  imports: [CommonModule, RouterLink,],
+  imports: [CommonModule, RouterLink, Home],
   templateUrl: './header.html',
   styleUrl: './header.css'
 })

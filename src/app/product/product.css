@@ -6,10 +6,11 @@ body{
     width: 500px;
     height: 400px;
     background-image: url('https://peekncooksa.blob.core.windows.net/index-blogposts/bigbasket.jpg');
-    margin: 3rem auto 0 auto;
+    margin: 7rem auto 0 auto;
     border-radius: 20px;
     background-repeat: no-repeat;
     background-size: contain;
+
  }
 
 .exclu{

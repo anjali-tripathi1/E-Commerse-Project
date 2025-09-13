@@ -184,7 +184,7 @@ export class ProductService{
     {
       "productId": 11,
       "productSku": "onion",
-      "productName": "Watch",
+      "productName": "Amna Luxury Fragment Watch",
       "productPrice": 83,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -201,7 +201,7 @@ export class ProductService{
     {
       "productId": 12,
       "productSku": "64965320asdff",
-      "productName": "Watch",
+      "productName": "Amna Preimum Fragment Watch",
       "productPrice": 50,
       "productShortName": "Watch",
       "productDescription": "Watch",
@@ -4082,22 +4082,22 @@ export class ProductService{
       "productSku": "PP",
       "productName": " Chunky Cable Knit",
       "productPrice": 100,
-      "productShortName": " Chunky Cable Knit",
+      "productShortName": "Armany Sandals",
       "productDescription": "new",
       "createdDate": "2024-11-07T08:34:20.163",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "2 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/F9AC863E-4CB4-4164-ADFE-8A8C0086CBCE_800x.jpg?v=1740842108",
-      "categoryName": "Fruits & Vegies"
+      "productImageUrl": "/images/pexels-jose-martin-segura-benites-1422456152-27113458.jpg",
+      "categoryName": "Sandals"
     },
     {
       "productId": 3049,
       "productSku": "wu4390u5",
-      "productName": " Chunky Cable Knit",
+      "productName": "Chariet Sandals",
       "productPrice": 102,
       "productShortName": " Chunky Cable Knit",
       "productDescription": "new",
@@ -4108,13 +4108,13 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/D03A323E-D36F-4F07-B07C-7E6A18B0C6A3_800x.jpg?v=1734449734",
-      "categoryName": "Bakery"
+      "productImageUrl": "/images/pexels-jose-martin-segura-benites-1422456152-26965817.jpg",
+      "categoryName": "Sandals"
     },
     {
       "productId": 2865,
       "productSku": "drink",
-      "productName": " Blue Scuba with Button Down Collar",
+      "productName": "Bata Sandals",
       "productPrice": 420,
       "productShortName": " Blue Scuba with Button Down Collar",
       "productDescription": "new",
@@ -4125,25 +4125,25 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/FS_BF_FJVC_Nov24-3557_400x.jpg?v=1730912181",
-      "categoryName": "T-Shirts"
+      "productImageUrl": "/images/pexels-fatima-italiano-194181159-11444384.jpg",
+      "categoryName": "Sandals"
     },
     {
       "productId": 3923,
       "productSku": "ABCDERES",
-      "productName": "Cauliflower",
+      "productName": "Premium Sandals",
       "productPrice": 20,
       "productShortName": "",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g)",
       "createdDate": "2025-08-29T22:52:40.713",
-      "deliveryTimeSpan": "1 day",
+      "deliveryTimeSpan": "2 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://www.bigbasket.com/pd/10000074/fresho-cauliflower-1-pc/?nc=smart_basket&nc=My+Smart+Basket&t_pg=%252Foct-homepage-t1%252F&t_p=Oct-T1_2023&t_pos_sec=3&t_ch=desktop&t_pos_item=3&t_s=Cauliflower",
-      "categoryName": "Fruits & Vegies"
+      "productImageUrl": "/images/pexels-nara-meas-1890442-3598123.jpg",
+      "categoryName": "Sandals"
     }
      ]
 

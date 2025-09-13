@@ -5,12 +5,13 @@
    position: fixed;
    top: 0;
    justify-content: space-around;
-   background-color: #fff;
+   background-color: #cecece;
    box-shadow: 5px 5px 10px 0 #aaa;
-   height: 64px;
+   height: 75px;
    z-index: 999;
    opacity: 0.95;
    width: 100%;
+   border-radius: 5px;
 }
 
 .links{
