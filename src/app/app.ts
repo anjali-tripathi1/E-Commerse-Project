@@ -13,7 +13,7 @@ import { ProductDetail } from "./product-detail/product-detail";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Header],
+  imports: [RouterOutlet, Header, Footer],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

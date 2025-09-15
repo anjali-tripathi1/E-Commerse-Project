@@ -2878,14 +2878,14 @@ export class ProductService{
       "productShortName": "cauliflower",
       "productDescription": "123456789",
       "createdDate": "2025-08-05T16:36:04.62",
-      "deliveryTimeSpan": "2",
+      "deliveryTimeSpan": "2 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3896,
@@ -2895,14 +2895,14 @@ export class ProductService{
       "productShortName": "Cauliflower",
       "productDescription": "Couliflower",
       "createdDate": "2025-08-21T11:43:27.247",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "2 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3893,
@@ -2912,14 +2912,14 @@ export class ProductService{
       "productShortName": "Cauliflower",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g).\nAbout the Product :\nIn the rich tapestry of Indian cuisine, cauliflower holds a cherished place as a versatile and widely used vegetable. Known as \"Gobi\" in Hindi, it features prominently in various regional dishes. From the iconic Punjabi favourite \"Aloo Gobi\" (potato and cauliflower curry) to the spicy Maharashtrian \"Gobi Masala,\" it adapts seamlessly to different cooking styles and flavours. Cauliflower is also enjoyed battered and fried as \"Gobi Pakoras\" or as a delicious addition to biryanis and pulavs. Its ability to absorb spices and its unique texture make it a beloved ingredient, offering a hearty and satisfying element to Indian meals.",
       "createdDate": "2025-08-21T11:32:24.86",
-      "deliveryTimeSpan": "1-2 Days",
+      "deliveryTimeSpan": "1 Days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3894,
@@ -2929,14 +2929,14 @@ export class ProductService{
       "productShortName": "Cauliflower",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g).\nAbout the Product :\nIn the rich tapestry of Indian cuisine, cauliflower holds a cherished place as a versatile and widely used vegetable. Known as \"Gobi\" in Hindi, it features prominently in various regional dishes. From the iconic Punjabi favourite \"Aloo Gobi\" (potato and cauliflower curry) to the spicy Maharashtrian \"Gobi Masala,\" it adapts seamlessly to different cooking styles and flavours. Cauliflower is also enjoyed battered and fried as \"Gobi Pakoras\" or as a delicious addition to biryanis and pulavs. Its ability to absorb spices and its unique texture make it a beloved ingredient, offering a hearty and satisfying element to Indian meals.",
       "createdDate": "2025-08-21T11:33:37.047",
-      "deliveryTimeSpan": "1-2 Days",
+      "deliveryTimeSpan": "1 Day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3890,
@@ -2946,14 +2946,14 @@ export class ProductService{
       "productShortName": "Carrot - Orange (Loose)",
       "productDescription": "A popular sweet-tasting root vegetable, carrots are narrow and cone-shaped. ",
       "createdDate": "2025-08-18T04:39:37.157",
-      "deliveryTimeSpan": "",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/l/10000070_17-fresho-carrot-orange.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3891,
@@ -2963,14 +2963,14 @@ export class ProductService{
       "productShortName": "Carrot - Orange",
       "productDescription": "A popular sweet-tasting root vegetable, carrots are narrow and cone-shaped. They have thick, fleshy, deeply coloured roots.",
       "createdDate": "2025-08-18T04:43:19.66",
-      "deliveryTimeSpan": "",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/l/10000070_17-fresho-carrot-orange.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3921,
@@ -2980,36 +2980,36 @@ export class ProductService{
       "productShortName": "Carrot",
       "productDescription": "carrot test",
       "createdDate": "2025-08-27T22:36:35.587",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://jaipurskincity.com/wp-content/uploads/2018/06/vegetable-for-hair-growth.jpg",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3839,
       "productSku": "yyy88777",
-      "productName": "carrot",
+      "productName": "Dragon Fruit",
       "productPrice": 100,
       "productShortName": "carrot",
       "productDescription": "carrot",
       "createdDate": "2025-07-30T11:53:40.393",
-      "deliveryTimeSpan": "5",
+      "deliveryTimeSpan": "5 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "data:image/jpeg;base64,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",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3754,
       "productSku": "Carrot1234",
-      "productName": "fresho! Carrot - Orange (Loose), 250 g",
+      "productName": "fresho! Carrot",
       "productPrice": 50,
       "productShortName": "Carrot",
       "productDescription": "About the Product\n\nA popular sweet-tasting root vegetable, carrots are narrow and cone-shaped. They have thick, fleshy, deeply coloured roots which grow underground and feathery green leaves that emerge above the ground. While these greens are fresh-tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste. fresho! brings you the flavour and richness of the finest crispy and juicy carrots that are locally grown and the best of the region.",
@@ -3031,14 +3031,14 @@ export class ProductService{
       "productShortName": "Car",
       "productDescription": "fresho!\nCarrot - Orange (Loose)",
       "createdDate": "2025-08-29T23:09:14.41",
-      "deliveryTimeSpan": "1-5 days",
+      "deliveryTimeSpan": "1-5day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000070_17-fresho-carrot-orange.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3934,
@@ -3048,14 +3048,14 @@ export class ProductService{
       "productShortName": "capsicum",
       "productDescription": "fresho! Capsicum - Green (Loose), 1 kg",
       "createdDate": "2025-09-03T15:21:53.127",
-      "deliveryTimeSpan": "1 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000067_27-fresho-capsicum-green.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3935,
@@ -3065,14 +3065,14 @@ export class ProductService{
       "productShortName": "capsicum",
       "productDescription": "fresho! Capsicum - Green (Loose), 1 kg",
       "createdDate": "2025-09-03T15:23:48.343",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "2day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000067_27-fresho-capsicum-green.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3813,
@@ -3089,7 +3089,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000067_27-fresho-capsicum-green.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3814,
@@ -3099,14 +3099,14 @@ export class ProductService{
       "productShortName": "capsicum",
       "productDescription": "fresho! Capsicum - Green (Loose)",
       "createdDate": "2025-07-21T22:53:25.883",
-      "deliveryTimeSpan": "2-3",
+      "deliveryTimeSpan": "2 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000067_27-fresho-capsicum-green.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3815,
@@ -3116,14 +3116,14 @@ export class ProductService{
       "productShortName": "capsicum",
       "productDescription": "fresho! Capsicum - Green (Loose)",
       "createdDate": "2025-07-21T23:18:20.627",
-      "deliveryTimeSpan": "1-3",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000067_27-fresho-capsicum-green.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3845,
@@ -3133,14 +3133,14 @@ export class ProductService{
       "productShortName": "calulskdj",
       "productDescription": "sdfksdjhkjshnk  hsihdskh",
       "createdDate": "2025-08-05T16:00:42.413",
-      "deliveryTimeSpan": "10 days",
+      "deliveryTimeSpan": "5 days",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3846,
@@ -3150,14 +3150,14 @@ export class ProductService{
       "productShortName": "caluliflovwe",
       "productDescription": "werdftghvfd dsds",
       "createdDate": "2025-08-05T16:05:44.41",
-      "deliveryTimeSpan": "10days",
+      "deliveryTimeSpan": "3 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3933,
@@ -3174,7 +3174,7 @@ export class ProductService{
       "deliveryTimeSpan": "1",
       "categoryId": 55,
       "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000066_28-fresho-cabbage.jpg?tr=w-154,q-80",
-      "categoryName": "Fruits & Vegetables"
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2717,
@@ -3196,10 +3196,10 @@ export class ProductService{
     {
       "productId": 2365,
       "productSku": "abk",
-      "productName": "brocoli",
-      "productPrice": 2,
+      "productName": "Simple Sandals",
+      "productPrice": 2000,
       "productShortName": "brooc",
-      "productDescription": "https://themewagon.github.io/fruitables/img/single-item.jpg",
+      "productDescription": "",
       "createdDate": "2024-08-27T14:27:39.91",
       "deliveryTimeSpan": "1day",
       "categoryId": 64,
@@ -3207,8 +3207,8 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://themewagon.github.io/fruitables/img/single-item.jpg",
-      "categoryName": "Flower Bouquets"
+      "productImageUrl": "/images/pexels-havanna-sousa-do-nascimento-2153685662-32851152.jpg",
+      "categoryName": "Sandals"
     },
     {
       "productId": 3926,
@@ -3275,8 +3275,8 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "",
-      "categoryName": "Fruits & Vegetables"
+      "productImageUrl": "/images/pexels-mind-of-amaka-698509-6639326.jpg",
+      "categoryName": "shoes"
     },
     {
       "productId": 3006,
@@ -3354,14 +3354,14 @@ export class ProductService{
       "productShortName": "bana",
       "productDescription": "sadafaf",
       "createdDate": "2025-09-08T19:58:26.39",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "dfsgsdg",
-      "categoryName": "Fruits & Vegetables"
+      "productImageUrl": "/images/pexels-enginakyurt-1435301.jpg",
+      "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2467,
@@ -3463,7 +3463,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Beverages"
+      "categoryName": "Baggage"
     },
     {
       "productId": 840,
@@ -3480,7 +3480,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1614179689702-355944cd0918?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Snacks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 989,
@@ -3497,7 +3497,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/904350/pexels-photo-904350.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Snacks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 1003,
@@ -3514,7 +3514,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1609172795052-05bf80681031?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Snacks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2363,
@@ -3531,7 +3531,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1621624959365-071359461b94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgzfHxiYWd8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Snacks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 3078,
@@ -3548,7 +3548,7 @@ export class ProductService{
       is_in_inventory: false,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 3102,
@@ -3565,7 +3565,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 1203,
@@ -3582,7 +3582,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://plus.unsplash.com/premium_photo-1670984076180-22a6c8f27f2b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 917,
@@ -3599,7 +3599,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1711548244653-72219aa9ac27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgwfHxiYWd8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 750,
@@ -3616,7 +3616,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2607,
@@ -3633,7 +3633,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1566150902887-9679ecc155ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2477,
@@ -3650,7 +3650,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1546938576-6e6a64f317cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2852,
@@ -3667,7 +3667,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1632282003890-020318a49e62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2708,
@@ -3677,14 +3677,14 @@ export class ProductService{
       "productShortName": "bag",
       "productDescription": "bag",
       "createdDate": "2024-10-30T20:07:04.257",
-      "deliveryTimeSpan": "1-2",
+      "deliveryTimeSpan": "1-2 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1524679813234-66a389fe1a42?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Fruits & Vegies"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2370,
@@ -3701,7 +3701,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1591561954555-607968c989ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Cakes & Pastries"
+      "categoryName": "Baggage"
     },
     {
       "productId": 988,
@@ -3718,7 +3718,7 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1603219527847-24c87f552a77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Cuts & Sprouts"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2917,
@@ -3728,14 +3728,14 @@ export class ProductService{
       "productShortName": "bag",
       "productDescription": "bag",
       "createdDate": "2024-12-26T12:03:21.16",
-      "deliveryTimeSpan": "",
+      "deliveryTimeSpan": "3 day",
       "categoryId": 142,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1571689936114-b16146c9570a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ0fHxiYWd8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Drinks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2527,
@@ -3752,24 +3752,24 @@ export class ProductService{
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.unsplash.com/photo-1575201647632-45fae95c9ce4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgyfHxiYWd8ZW58MHx8MHx8fDA%3D",
-      "categoryName": "Technology"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2887,
       "productSku": "43",
-      "productName": "bag",
+      "productName": "Light brown Handbag",
       "productPrice": 22,
       "productShortName": "bag",
       "productDescription": "bag",
       "createdDate": "2024-12-13T16:57:51.663",
-      "deliveryTimeSpan": "2-3",
+      "deliveryTimeSpan": "2-3 day",
       "categoryId": 75,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://plus.unsplash.com/premium_photo-1680392544041-d89413b561ce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YmFnfGVufDB8fDB8fHww",
-      "categoryName": "Snacks"
+      "categoryName": "Baggage"
     },
     {
       "productId": 2647,
@@ -3779,14 +3779,14 @@ export class ProductService{
       "productShortName": "bag",
       "productDescription": "bag",
       "createdDate": "2024-10-22T09:18:17.123",
-      "deliveryTimeSpan": "3",
+      "deliveryTimeSpan": "3 day",
       "categoryId": 143,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://plus.unsplash.com/premium_photo-1680390327010-09e627ebd475?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJhZ3xlbnwwfHwwfHx8MA%3D%3D",
-      "categoryName": "Toy"
+      "categoryName": "Baggage"
     },
     {
       "productId": 3370,
@@ -3844,7 +3844,7 @@ export class ProductService{
       "productSku": "Apple-1",
       "productName": "Apple",
       "productPrice": 10,
-      "productShortName": "Apple",
+      "productShortName": "Premium Apple",
       "productDescription": "",
       "createdDate": "2025-04-20T20:49:38.877",
       "deliveryTimeSpan": "2-3 days",
@@ -3859,12 +3859,12 @@ export class ProductService{
     {
       "productId": 3116,
       "productSku": "sraxyz",
-      "productName": "Apple",
+      "productName": " Apple",
       "productPrice": 20,
       "productShortName": "Apple",
       "productDescription": "sraxyz",
       "createdDate": "2025-02-06T19:42:35.53",
-      "deliveryTimeSpan": "1 to 2 days",
+      "deliveryTimeSpan": "1-2 days",
       "categoryId": 55,
       brand: "Fresh",
       discountPrice:140,
@@ -3876,8 +3876,8 @@ export class ProductService{
     {
       "productId": 3859,
       "productSku": "BDC",
-      "productName": "Apple",
-      "productPrice": 10,
+      "productName": "Grapes",
+      "productPrice": 200,
       "productShortName": "apple",
       "productDescription": "sacknanlknlqe",
       "createdDate": "2025-08-11T11:17:16.503",
@@ -3887,7 +3887,7 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "",
+      "productImageUrl": "/images/pexels-qjpioneer-708777.jpg",
       "categoryName": "Fruits & Vegies"
     },
     {
@@ -3910,24 +3910,24 @@ export class ProductService{
     {
       "productId": 3913,
       "productSku": "anuja",
-      "productName": "Anuja Cauliflower",
+      "productName": "PineApple",
       "productPrice": 20,
       "productShortName": "Anuja Cauliflower",
       "productDescription": "fresho! Cauliflower, 1 pc (approx. 400 to 600 g)",
       "createdDate": "2025-08-26T16:44:10.46",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://www.bbassets.com/media/uploads/p/m/10000074_21-fresho-cauliflower.jpg?tr=w-154,q-80",
+      "productImageUrl": "/images/pexels-laker-6157056.jpg",
       "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 3871,
       "productSku": "[PStoryStrapShopp]-1755047421963-3502",
-      "productName": "[PStoryStrapShopp] Alface",
+      "productName": "Orange",
       "productPrice": 55,
       "productShortName": "Alface",
       "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est corrupti, at, repudiandae laborum quod maxime quis laboriosam sapiente quas veniam labore! Assumenda, corporis maiores doloribus a quod voluptatibus veritatis quasi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde rem cumque expedita minus. Commodi molestias molestiae nihil. Reiciendis rerum optio quia ad earum modi suscipit similique nesciunt deleniti! Placeat, laudantium.",
@@ -3938,25 +3938,25 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://cdn.awsli.com.br/600x700/305/305913/produto/10293569/couve-chinesa-unidade-4e69c1d7.jpg",
+      "productImageUrl": "/images/pexels-delphine-hourlay-91322-691166.jpg",
       "categoryName": "Fruits & Vegies"
     },
     {
       "productId": 2668,
       "productSku": "ddds",
-      "productName": "al",
-      "productPrice": 12,
+      "productName": "Camera",
+      "productPrice": 12000,
       "productShortName": "al",
-      "productDescription": "data:image/jpeg;base64,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",
+      "productDescription": '',
       "createdDate": "2024-10-22T15:16:50.723",
-      "deliveryTimeSpan": "1day",
+      "deliveryTimeSpan": "2 day",
       "categoryId": 56,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "data:image/jpeg;base64,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",
-      "categoryName": "Foodgrains"
+      "categoryName": "Electronics"
     },
     {
       "productId": 3848,
@@ -3966,7 +3966,7 @@ export class ProductService{
       "productShortName": "abcd",
       "productDescription": "sdfghjkhg",
       "createdDate": "2025-08-05T16:32:43.903",
-      "deliveryTimeSpan": "1",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
@@ -3978,24 +3978,24 @@ export class ProductService{
     {
       "productId": 3888,
       "productSku": "1111",
-      "productName": "1111",
+      "productName": "Airmina Watch",
       "productPrice": 11,
       "productShortName": "1111",
       "productDescription": "1111",
       "createdDate": "2025-08-14T20:22:38.68",
-      "deliveryTimeSpan": "1",
+      "deliveryTimeSpan": "3 day",
       "categoryId": 75,
       brand: "HAVELS",
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
       "productImageUrl": "https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "categoryName": "Snacks"
+      "categoryName": "Electronics"
     },
     {
       "productId": 3332,
       "productSku": "TS-RDM-A101",
-      "productName": " Short Sleeve with Button Down Collar",
+      "productName": " Armana Sandals",
       "productPrice": 75,
       "productShortName": " Short Sleeve with Button Down Collar",
       "productDescription": "new",
@@ -4006,8 +4006,8 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/53F1A202-124B-424B-B7DB-A28C32165A92_800x.jpg?v=1732775049",
-      "categoryName": "Snacks"
+      "productImageUrl": "/images/pexels-jose-martin-segura-benites-1422456152-27503503.jpg",
+      "categoryName": "Sandals"
     },
     {
       "productId": 2858,
@@ -4051,7 +4051,7 @@ export class ProductService{
       "productShortName": " Cucumber",
       "productDescription": "English Cucumbers are a refreshing and versatile addition to your kitchen. Grown naturally, these long, slender cucumbers offer a crisp texture and mild, refreshing flavour. Perfect for salads, sandwiches, or as a healthy snack, they bring a delightful crunch to any dish. Packed with hydration and low in calories, English cucumbers are ideal for those seeking a nutritious lifestyle. Their thin skin is tender enough to eat, and they have fewer seeds than regular cucumbers, making them exceptionally easy to prepare. Enjoy the natural goodness and vibrant green colour that English cucumbers bring to your meals. Don't forget to check out our delicious recipe - https://www.bigbasket.com/cookbook/recipes/2231/cucumber-lemon-detox-water/",
       "createdDate": "2025-06-13T16:06:22.387",
-      "deliveryTimeSpan": "1-2 days",
+      "deliveryTimeSpan": "1 day",
       "categoryId": 55,
       brand: "HAVELS",
       discountPrice:140,
@@ -4063,7 +4063,7 @@ export class ProductService{
     {
       "productId": 3009,
       "productSku": "weweffr",
-      "productName": " Coffee Bamboo Crew",
+      "productName": "Vita Premium Luxury Shoes",
       "productPrice": 46,
       "productShortName": " Coffee Bamboo Crew",
       "productDescription": " MA ",
@@ -4074,8 +4074,8 @@ export class ProductService{
       discountPrice:140,
       is_in_inventory: true,
       items_left: 3,
-      "productImageUrl": "https://eu.fathersonsclothing.com/cdn/shop/files/F57AC921-4807-4835-80B0-1FF63DFB3676_800x.jpg?v=1741878153",
-      "categoryName": "T-shirts"
+      "productImageUrl": "/images/pexels-jose-martin-segura-benites-1422456152-27503498.jpg",
+      "categoryName": "Shoes"
     },
     {
       "productId": 2762,

@@ -9,7 +9,7 @@ import { Footer } from "../footer/footer";
 
 @Component({
   selector: 'app-product-detail',
-  imports: [CommonModule, FormsModule, Footer],
+  imports: [CommonModule, FormsModule,],
   templateUrl: './product-detail.html',
   styleUrl: './product-detail.css'
 })
