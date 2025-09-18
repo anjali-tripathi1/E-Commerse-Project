@@ -3,13 +3,14 @@ import { Product } from "../product/product";
 import { ProductService } from '../service/product.service';
 import { Products } from '../models/product';
 import { CommonModule } from '@angular/common';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, RouterLink } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { Footer } from "../footer/footer";
 
+
 @Component({
   selector: 'app-product-detail',
-  imports: [CommonModule, FormsModule,],
+  imports: [CommonModule, FormsModule, RouterLink],
   templateUrl: './product-detail.html',
   styleUrl: './product-detail.css'
 })

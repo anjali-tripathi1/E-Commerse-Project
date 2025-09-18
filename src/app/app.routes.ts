@@ -7,6 +7,7 @@ import { Home } from './home/home';
 import { Products } from './pages/admin/products/products';
 import { Product } from './product/product';
 import { ProductDetail } from './product-detail/product-detail';
+import { BuyNow } from './buy-now/buy-now';
 
 export const routes: Routes = [
       {path:'', component:Home},
@@ -19,5 +20,6 @@ export const routes: Routes = [
     //  {path:'product', children:[
     //    {path:'product/:id', component:ProductDetail}
     //  ]}
-    {path:'product/:id', component:ProductDetail}
+    {path:'product/:id', component:ProductDetail},
+    {path:'buy-now', component:BuyNow}
 ];
