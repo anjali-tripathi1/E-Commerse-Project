@@ -274,7 +274,7 @@
 
 .order{
     position: relative;
-   top: -150%;
+   /* top: -150%; */
    left: 65%;
    width: 400px;
    height: 300px;
