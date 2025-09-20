@@ -1,6 +1,3 @@
-
-
-
 <div class="container" >
   <div class="images">
     <img class="rotate-1" src="{{products.productImageUrl}}" alt="">
@@ -18,7 +15,7 @@
         <div><p class="para">{{products.brand}}</p> . <p class="para">{{products.deliveryTimeSpan}}</p> . <p class="para">{{products.categoryName}}</p></div>
         <div class="des"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid vel esse neque atque quos illo non praesentium incidunt delectus vero, cum consequatur hic modi eaque labore magni ullam. Quasi laborum ut amet animi commodi expedita voluptatem numquam a aliquid, harum perspiciatis iste, enim consectetur quidem, autem dicta quas dolore! Quasi.</p></div>
         <div class="left">Items Left : {{products.items_left}}</div>
-        <div ><a routerLink="/buy-now" class="buy">Buy Now</a><a href="" class="cart">Add To Cart</a></div>
+        <div ><a [routerLink]="'/buy-now/' + products.productId" class="buy">Buy Now</a><a href="" class="cart">Add To Cart</a></div>
         <div ></div>
    </div>
 

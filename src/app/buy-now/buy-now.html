@@ -52,7 +52,7 @@
        <input  type="date"  name="" id="" class="date">
        <label for="" class="cvv">CVV *</label>
        <input type="text" class="date">
-      <button class="inr">Pay INR 200</button>
+      <button class="inr">Pay 400 INR</button>
    <div class="detail-div">
         <p class="detail">Your card details would be security saved for faster payments. your CVV will not be stored.</p>
    </div>
@@ -82,21 +82,48 @@
 </div>
 
 
-<div class="order">
+
+
+<div class="order" >
    <div class="in-order">
-          <h3>Your order</h3>
-   <div>
-      <img src="" alt="">
-   </div>
-  <p>Jeans with squeans</p>
-  <p>Size : XL  Color:Blue</p>
-  <p>Price : $200 | 01</p>
-  <p>Delivery : $20 Expects</p>
-  <p>Discoutn : $0 </p>
-  <h2>Total : $ 115</h2>
-</div>
+          <h3 class="your">Your order</h3>
+  <div >
+
+
+ <div class="flex" >
+    <div class="img-box">
+      <img src="{{products.productImageUrl}}" alt="">
    </div>
 
+   <div class="line">
+       <div class="name">{{products.productName}}</div>
+       <p class="brand">{{products.brand}} . {{products.categoryName}}</p>
+       <p class="price">{{  + products.productPrice | currency :'INR' : true : '2.0'}} | {{products.items_left}}</p>
+
+   </div>
+
+ </div>
+
+   <div class="del">
+    <div>Delivery  </div>
+    <div>{{products.deliveryTimeSpan}}</div>
+  </div>
+   <div class="dis">
+      <div>Discount </div>
+      <div>-{{products.discountPrice | currency :'INR' : true : '2.0' }} </div>
+   </div>
+
+   <div class="to">
+        <div class="t">Total</div>
+        <div class="all">{{products.productPrice - products.discountPrice | currency :'INR' : true : '2.0'}}</div>
+   </div>
 
 
 </div>
+
+
+
+
+<!-- </div> -->
+
+<!-- Jeans Squeans -->

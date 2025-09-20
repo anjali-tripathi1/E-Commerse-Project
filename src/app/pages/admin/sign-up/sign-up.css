@@ -16,7 +16,8 @@
    padding: 15px;
    box-shadow: 5px 5px 10px 0 #555;
    /* background-image: url('/images/n-n-BtbjCFUvBXs-unsplash.jpg') */
-   background-color: #999;
+   background-color: #cdcdcd;
+   color: #555;
 }
 
 .name{

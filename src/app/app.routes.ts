@@ -21,5 +21,5 @@ export const routes: Routes = [
     //    {path:'product/:id', component:ProductDetail}
     //  ]}
     {path:'product/:id', component:ProductDetail},
-    {path:'buy-now', component:BuyNow}
+    {path:'buy-now/:id', component:BuyNow}
 ];
